@@ -25,7 +25,6 @@
 
      ```
      python manage.py runserver localhost:3003
-    
      ```
 
    - Luego, puedes acceder al proyecto ingresando http://localhost:3003/ en tu navegador web.
@@ -36,7 +35,6 @@
 
      ```
      http://localhost:3003/Ventas/
-    
      ```
 
 4. **Acceder a la página de administración:**
@@ -45,6 +43,5 @@
 
      ```
      http://localhost:3003/admin/
-    
      ```
    
