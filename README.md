@@ -30,7 +30,7 @@
 
    - Luego, puedes acceder al proyecto ingresando http://localhost:3003/ en tu navegador web.
 
-3. **Acceder a la aplicación de ventas::**
+3. **Acceder a la página de ventas::**
    
    - La aplicación de ventas tiene una URL específica configurada en las URLs del proyecto, puedes acceder a ella ingresando la siguiente URL en tu navegador:
 
@@ -39,7 +39,8 @@
     
      ```
 
-4. **Acceder a la aplicación de administración:**
+4. **Acceder a la página de administración:**
+   
    - La aplicación de administración tiene una URL específica configurada en las URLs del proyecto, puedes acceder a ella ingresando la siguiente URL en tu navegador:
 
      ```
