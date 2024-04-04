@@ -45,3 +45,5 @@
      http://localhost:3003/admin/
      ```
    
+
+Desarrollado por: Andrea Cubillos e Ivonne Sierra.
